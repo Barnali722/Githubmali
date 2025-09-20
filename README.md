@@ -1,2 +1,2 @@
 # Githubmali
-Basic codes
+Basic JAVA codes with simple DSA
